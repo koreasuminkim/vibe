@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button";
 
-export const Page = () => {
+const Page =  () => {
+
   return (
     <div>
-        <Button variant="new">Click me</Button>
+      Hello World!
     </div>
   );
 }
